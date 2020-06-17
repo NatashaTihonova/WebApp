@@ -49,7 +49,7 @@ html {
 }
 
   body {
-	background: linear-gradient(to right,rgb(255, 238, 211), rgb(211, 165, 207)) no-repeat 0 0 /cover;
+	background: linear-gradient(to right,rgb(211, 219, 255), rgb(150, 168, 252)) no-repeat 0 0 /cover;
 	display: block;
 	flex-direction: column;
 	justify-content: center;

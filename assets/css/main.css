@@ -61,7 +61,7 @@ body {
 }
 
 h1, h2, h3, h4, h5 ,h6{
-    color: #140312;
+    color: #030314;
     font-family: "raleway-regular", arial;
     letter-spacing: 1px;
 }
@@ -96,7 +96,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard.dark{
-    background: url('../../images/1579626280_16-p-minimalistichnie-foni-s-rasteniyami-40.jpg') no-repeat;
+    background: url('../../images/фон.jpg') no-repeat;
     
     background-size: cover;
     -webkit-background-size: cover;
@@ -140,11 +140,11 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard .caption.light h1{
-    color: rgb(122, 47, 47);
+    color: rgb(4, 0, 44);
 }
 
 .billboard .caption.light h2{
-    color: rgb(122, 47, 47);
+    color: rgb(3, 10, 48);
 }
 
 .billboard .caption p{
